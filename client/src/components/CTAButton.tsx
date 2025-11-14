@@ -11,7 +11,7 @@ export default function CTAButton({ onClick }: CTAButtonProps) {
     if (onClick) {
       onClick();
     }
-    window.location.href = 'https://www.ggcheckout.com/checkout/v2/URPbFbTC4XIyAVOMEe44';
+    window.location.href = 'https://www.ggcheckout.com/checkout/v2/qp8yYeAD85hHDR3ow9zw';
   };
 
   return (
